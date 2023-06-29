@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer from Bangladesh. Thank You for taking the time to view my GitHub Profile.😊<br><br>- 🔭 I’m working as a freelance Frontend Developer.<br>- 📚 I'm currently learning Dart & Flutter for cross-platform app development.<br>- ⚡ In my free time I love to teach, learn, and solve real-world problems.</p>
+<p align="left">I'm a Frontend Developer from Bangladesh. Thank You for taking the time to view my GitHub Profile.😊<br><br>- 🔭 I’m working as a freelance Frontend Developer.<br>- 📚 I'm currently learning ChatGPT App Development.<br>- ⚡ In my free time I love to teach, learn, and solve real-world problems.</p>
 
 ###
 
